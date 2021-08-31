@@ -1,13 +1,13 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
+    BOT_TOKEN = "1877072951:AAEjnG4Sq5taz2YZ2kVVxsz_u75SecfROcs"
+    APP_ID = "7029627"
+    API_HASH = "fc8d017caecc8633851d1f8c221dd376"
+    DATABASE_URL = "postgres://ifgmusixohpvzu:49691b1e0d5a3330bed04cbd0a20024c63320f77142c28bc5123ab68acbc4a9a@ec2-50-17-255-244.compute-1.amazonaws.com:5432/d6cd8u6lr491cc"
+    SUDO_USERS = "1905363150" # Sepearted by space.
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
-    SUPPORT_CHAT_LINK = ""
+    G_DRIVE_CLIENT_ID = "683603349569-k6ilddm141847sq89jffe9umab10i570.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "DA4lYjwzEY9iqCQ7nEgBZzoy"
+    SUPPORT_CHAT_LINK = "https://t.me/skarocsteady"
 
 
 class BotCommands:
